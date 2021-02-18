@@ -1,1 +1,2 @@
-YOLO!
+#!/bin/bash
+echo "YOLO"
